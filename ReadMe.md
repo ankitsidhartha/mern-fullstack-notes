@@ -1,3 +1,10 @@
+# ⚠️ Archived Repository – Earlier Learning Phase
+
+This repository was created during my initial learning phase of the MERN stack.
+It contains notes and practice material used to understand core concepts.
+
+This repository is no longer actively maintained.
+Improved and current work is available in other repositories.
 # HTML, CSS, and Bootstrap Assignment  
 
 ## 📌 Overview  
